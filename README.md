@@ -40,5 +40,17 @@ Dependencies:-
 ```tkinter``` (included with most Python installations)
 ```Pillow``` (for image processing; install with pip install Pillow)
 
-License
+## Contributing
+Contributions are welcome! If you'd like to suggest improvements, report bugs, or add new features, please follow these steps:
+
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature/your-feature-name`)  
+3. Make your changes and commit them (`git commit -m "Add some feature"`)  
+4. Push to your branch (`git push origin feature/your-feature-name`)  
+5. Open a Pull Request describing your changes
+
+Please ensure your code follows the existing style and includes appropriate comments.
+Thank you for helping improve this project!
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
